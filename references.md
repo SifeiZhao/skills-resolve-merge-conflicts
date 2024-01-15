@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+This is a test that conflicts with what we added for references.md in the main branch.
+
